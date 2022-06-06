@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood
+
+}
+
+h1 {
+    color: black;
+    font-size: medium;
+    padding: 10px;
+}
+h2 {
+    color: royalblue;
+    font-size: x-large;
+    padding: 10px;
+}
+h3 {
+    color: brown;
+    font-size: large;
+    padding: 10px;
+}
+p {
+    color: darkred;
+    font-size: larger;
+    margin-left: 5pt;
+    margin-right: 2pt;
+}
